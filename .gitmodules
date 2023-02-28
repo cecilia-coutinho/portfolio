@@ -1,3 +1,6 @@
 [submodule "budget-tracker-console-app-csharp"]
 	path = budget-tracker-console-app-csharp
 	url = https://github.com/Cecilia-Coutinho/budget-tracker-console-app-csharp.git
+[submodule "time-tracker-console-app-csharp"]
+	path = time-tracker-console-app-csharp
+	url = https://github.com/Cecilia-Coutinho/time-tracker-console-app-csharp.git
