@@ -7,3 +7,6 @@
 [submodule "csharp-code-samples"]
 	path = csharp-code-samples
 	url = https://github.com/Cecilia-Coutinho/csharp-code-samples.git
+[submodule "car-racing-console-csharp"]
+	path = car-racing-console-csharp
+	url = https://github.com/Cecilia-Coutinho/car-racing-console-csharp.git
