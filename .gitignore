@@ -1,3 +1,5 @@
 # Ignore any files in /bin and /obj Folders
 /budget-tracker-console-app-csharp
 /time-tracker-console-app-csharp
+/csharp-code-samples
+/car-racing-console-csharp
